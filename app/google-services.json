@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2825807666",
+    "project_id": "vehiclebookingapp-df4cb",
+    "storage_bucket": "vehiclebookingapp-df4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2825807666:android:d50f1bb24256291b91d92b",
+        "android_client_info": {
+          "package_name": "com.example.vehiclebookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2825807666-21fuv4vu9vs7dk69o68ohm5869cbka91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bV11-SRlgSzvoygNUJjRb-pKjgyeuEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2825807666-21fuv4vu9vs7dk69o68ohm5869cbka91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

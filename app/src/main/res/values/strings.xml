@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tirtha Yatra</string>
+    <string name="we_will_send_you_an_one_time_otp_password_on_this_mobile_number">We will send you an one time otp on this given mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile number</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="enter_the_otp_sent_to_you">Please Enter the OTP sent to you</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the otp</string>
+    <string name="resend_otp">RESEND OTP AGAIN</string>
+    <string name="verify">verify</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+</resources>
